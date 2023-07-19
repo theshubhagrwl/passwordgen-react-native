@@ -193,6 +193,7 @@ const styles = StyleSheet.create({
     fontSize: 32,
     fontWeight: '600',
     marginBottom: 15,
+    textAlign: 'center',
   },
   subTitle: {
     fontSize: 26,
@@ -251,11 +252,12 @@ const styles = StyleSheet.create({
   },
   secondaryBtnTxt: {
     textAlign: 'center',
+    color: '#3e3e3e',
   },
   card: {
-    padding: 12,
+    padding: 5,
     borderRadius: 6,
-    marginHorizontal: 12,
+    marginHorizontal: 10,
   },
   cardElevated: {
     backgroundColor: '#ffffff',
